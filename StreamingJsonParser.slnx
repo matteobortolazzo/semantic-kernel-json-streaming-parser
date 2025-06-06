@@ -1,0 +1,7 @@
+﻿<Solution>
+  <Folder Name="/Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="StreamingJsonParser\StreamingJsonParser.csproj" Type="Classic C#" />
+  <Project Path="TodoList.Api\TodoList.Api.csproj" Type="Classic C#" />
+</Solution>

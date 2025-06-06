@@ -1,7 +1,0 @@
-﻿<Solution>
-  <Folder Name="/SolutionItems/">
-    <File Path="..\README.md" />
-  </Folder>
-  <Project Path="IncrementalJsonParser\IncrementalJsonParser.csproj" Type="Classic C#" />
-  <Project Path="TodoListStream\TodoListStream.csproj" Type="Classic C#" />
-</Solution>
