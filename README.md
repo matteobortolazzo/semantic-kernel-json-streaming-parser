@@ -11,7 +11,7 @@ dotnet run -p TodoList.Api/TodoList.Api.csproj
 curl http://localhost:5179 
 ```
 
-![Demo Video](./imgs/output.mp4?raw=true)
+![Demo Video](./imgs/output.gif?raw=true)
 
 ## The problem
 
